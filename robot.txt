@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://proyectosolaronline.github.io/tacos-el-trece-galindo/sitemap.xml
